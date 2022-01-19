@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "status=true": { "model":  "snakecraft:block/pointy_sticks_true"},
+    "status=false": { "model":  "snakecraft:block/pointy_sticks_false"}
+  }
+}
