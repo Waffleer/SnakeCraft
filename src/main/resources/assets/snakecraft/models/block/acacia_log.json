@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "snakecraft:block/wilted_log_top",
+    "side": "snakecraft:block/wilted_log"
+  }
+}

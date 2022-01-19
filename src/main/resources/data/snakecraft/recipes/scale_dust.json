@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "snakecraft:snake_scale"
+    }
+  ],
+  "result": {
+    "item": "snakecraft:scale_dust",
+    "count": 1
+  }
+}

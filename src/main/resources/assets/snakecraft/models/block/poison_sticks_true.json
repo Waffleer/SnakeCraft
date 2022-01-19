@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "snakecraft:block/poison_sticks_top_true",
+    "bottom": "snakecraft:block/poison_sticks_bottom",
+    "side": "snakecraft:block/poison_sticks_side"
+  }
+}

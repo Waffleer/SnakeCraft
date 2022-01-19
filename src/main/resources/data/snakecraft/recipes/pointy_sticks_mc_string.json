@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@$@",
+    "###"
+  ],
+  "key" : {
+    "#": {
+      "item": "snakecraft:wilted_log"
+    },
+    "@": {
+      "item": "minecraft:string"
+    },
+    "$": {
+      "item": "snakecraft:bundle_of_pointy_sticks"
+    }
+  },
+  "result": {
+    "item": "snakecraft:pointy_sticks",
+    "count": 1
+  }
+}

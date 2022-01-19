@@ -1,0 +1,18 @@
+{
+  "item.snakecraft.snake_ingot": "Snake Ingot",
+  "item.snakecraft.snake_scale": "Snake Scale",
+  "item.snakecraft.scale_dust": "Scale Dust",
+
+  "block.snakecraft.scale_block": "Scale Block",
+  "block.snakecraft.wilted_log": "Wilted Log",
+
+  "itemGroup.snakecraft_tab": "Snake Craft",
+
+  "item.snakecraft.snake_sword": "Snake Sword",
+
+  "block.snakecraft.poison_sticks": "Poison Sticks",
+  "block.snakecraft.pointy_sticks": "Pointy Sticks",
+
+  "death.attack.poison_sticks": "You Died to Poison Sticks",
+  "death.attack.pointy_sticks": "You Died to Pointy Sticks"
+}

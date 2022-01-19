@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "status=true": { "model":  "snakecraft:block/poison_sticks_true"},
+    "status=false": { "model":  "snakecraft:block/poison_sticks_false"}
+  }
+}
