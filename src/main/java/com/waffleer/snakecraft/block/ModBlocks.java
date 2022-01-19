@@ -22,18 +22,29 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, SnakeCraft.MOD_ID);
 
-
+    // Generic Blocks
     public static final RegistryObject<Block> SCALE_BLOCK = registerBlock
             ("scale_block", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f).requiresCorrectToolForDrops()));
 
-    public static final RegistryObject<Block> WILTED_LOG = registerBlock
-            ("wilted_log", () -> new Block(BlockBehaviour.Properties.of(Material.WOOD).strength(1f)));
 
+    // Point Sticks and Variants
     public static final RegistryObject<Block> POISONSTICKS = registerBlock
             ("poison_sticks", () -> new PoisonSticks(BlockBehaviour.Properties.of(Material.WOOD).strength(1f)));
 
     public static final RegistryObject<Block> POINTYSTICKS = registerBlock
             ("pointy_sticks", () -> new PointySticks(BlockBehaviour.Properties.of(Material.WOOD).strength(1f)));
+
+
+
+    // Wilted woods
+    public static final RegistryObject<Block> WILTED_LOG = registerBlock
+            ("wilted_log", () -> new Block(BlockBehaviour.Properties.of(Material.WOOD).strength(1f)));
+
+    public static final RegistryObject<Block> WILTED_PLANK = registerBlock
+            ("wilted_plank", () -> new Block(BlockBehaviour.Properties.of(Material.WOOD).strength(1f)));
+
+
+
 
 
 

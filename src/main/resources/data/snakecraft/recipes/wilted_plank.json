@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key" : {
+        "#": {
+        "item": "snakecraft:wilted_log"
+        }
+    },
+    "result": {
+        "item": "snakecraft:wilted_plank",
+        "count": 1
+        }
+}

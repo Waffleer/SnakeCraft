@@ -40,10 +40,8 @@ public class ModItems {
 
 
     // Basic Ingredients
-    public static final RegistryObject<Item> POINTY_STICK = ITEMS.register( "pointy_stick",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SNAKECRAFT_TAB))             );
 
-    public static final RegistryObject<Item> BUNDLE_OF_POINTY_STICKS = ITEMS.register( "bundle_of_pointy_sticks",
+    public static final RegistryObject<Item> BUNDLE_OF_POINTY_STICKS = ITEMS.register( "bundle_of_bamboo",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SNAKECRAFT_TAB))             );
 
     // Flower Ingredients
